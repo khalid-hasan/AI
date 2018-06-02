@@ -1,0 +1,7 @@
+H:\VS Projects\EightPuzzleSln\EightPuzzle\bin\Debug\EightPuzzle.exe.config
+H:\VS Projects\EightPuzzleSln\EightPuzzle\bin\Debug\EightPuzzle.exe
+H:\VS Projects\EightPuzzleSln\EightPuzzle\bin\Debug\EightPuzzle.pdb
+H:\VS Projects\EightPuzzleSln\EightPuzzle\obj\Debug\EightPuzzle.csprojResolveAssemblyReference.cache
+H:\VS Projects\EightPuzzleSln\EightPuzzle\obj\Debug\EightPuzzle.csproj.CoreCompileInputs.cache
+H:\VS Projects\EightPuzzleSln\EightPuzzle\obj\Debug\EightPuzzle.exe
+H:\VS Projects\EightPuzzleSln\EightPuzzle\obj\Debug\EightPuzzle.pdb
